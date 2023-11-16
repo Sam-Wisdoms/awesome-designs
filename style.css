@@ -1,0 +1,26 @@
+.container > div {
+    padding: 5px;
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    
+}
+
+html, body {
+    background-color:;
+    margin: 5px;
+}
+
+.container > div:nth-child(1) {
+    background-color:red;
+    width: 600px;
+}
+.container > div:nth-child(2) {
+    background-color: aqua;
+    width: 600px;
+}
+
+.container > div:nth-child(3) {
+    background-color: yellow;
+    width: 600px;
+}
