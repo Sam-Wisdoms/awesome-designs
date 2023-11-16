@@ -18,6 +18,8 @@ html, body {
 .container > div:nth-child(2) {
     background-color: aqua;
     width: 600px;
+    padding: 20px;
+    width: 570px;
 }
 
 .container > div:nth-child(3) {
